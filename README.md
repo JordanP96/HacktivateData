@@ -1,2 +1,2 @@
 # HacktivateData
-Dataset for Hacktivate activity
+Dataset and model for Hacktivate activity
