@@ -1,0 +1,5 @@
+ID,Date, Weight, BMI, Fat, Calories_In, Calories Burned, Steps,Distance, Floors,Minutes Sedentary,Minutes Lightly Active,Minutes Fairly_Act 
+5048,01/08/2822,75,27.6,8,8,2105, 10000,6,4,300,59,1,21,435
+5040,82/08/2022,75,27.6,0,0,2289,9000, 6,3,400,64,11,34,657 
+5040,03/08/2022,75,27.6,0,0,2166, 9500, 5, 2,500,65,1,22,509
+5040,04/88/2822,75,27.6,0,0,1822,8500,5,2,688,49,13,28,574
